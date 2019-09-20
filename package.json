@@ -1,10 +1,10 @@
 {
-  "name": "peerflix-server",
+  "name": "testpee",
   "version": "0.5.0",
   "author": "Aliaksei Sapach <dreamsonic@tut.by>",
-  "description": "Streaming torrent client for node.js with web ui.",
+  "description": "testpee0340592345.",
   "bin": {
-    "peerflix-server": "./server/bin.js"
+    "testpee": "./server/bin.js"
   },
   "scripts": {
     "start": "node ./server/bin.js",
@@ -14,15 +14,15 @@
   "main": "./server/bin.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asapach/peerflix-server.git"
+    "url": "https://github.com/baiguke2/testpee.git"
   },
   "keywords": [
-    "bittorrent",
-    "torrent",
-    "stream",
-    "peerflix",
-    "server",
-    "web"
+    "test",
+    "test",
+    "test",
+    "test",
+    "test",
+    "test"
   ],
   "dependencies": {
     "archiver": "^3.0.0",
